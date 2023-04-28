@@ -10,3 +10,6 @@ Assembly required.
 ![assy](https://user-images.githubusercontent.com/68818321/232334894-d64d10c1-be78-4dde-a332-03dbf16bc225.png)
 
 ![P1070159](https://user-images.githubusercontent.com/68818321/232334404-6304a024-76ac-4347-8e8d-18f96eb69d38.JPG)
+
+Extra details about the control panel are here: https://github.com/retrobuiltRyan/MixStick-Arcade-Controller
+![P1060748](https://user-images.githubusercontent.com/68818321/235145911-d0eca253-c5d9-4969-a4b4-39f3e57ad0a7.JPG)
